@@ -1,3 +1,4 @@
+--Phase 2 Database and SQLite Statements (at end of file)
 SELECT "CREATING TABLES----------";
 /*
     Create the tables in the schema.
